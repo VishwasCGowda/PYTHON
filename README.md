@@ -21,12 +21,12 @@
   ----------------------
   To execute the file go the cmd select the path of the file then type the command below.
   <pre><code>
-  python filename.py
+  python personal_assistance.py
   </code></pre>
   
   thank you for using
   
   stay tuned for update
 
-coded with love by VARZ SECURITY.
+coded with love by <pre> VARZ SECURITY. </pre>
   

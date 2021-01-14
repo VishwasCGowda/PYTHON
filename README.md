@@ -4,11 +4,12 @@
   ----------------------
   
   EXECUTE THE BELOW COMMANDS IN THE CMD
-  
+  <pre><code>$ 
   pip install pyttsx3
   pip install SpeechRecognition
   pip install pyjokes
   pip install wikipedia
+</code></pre>
   
   this finishes the installation process
   

@@ -2,9 +2,13 @@
   
   INSTALLATION GUIDE
   ----------------------
+  Download the file using the command 
+  <pre><code>
+  git clone https://github.com/VISHWAS-c-dot/PYTHON.git
+  </code></pre>
   
   EXECUTE THE BELOW COMMANDS IN THE CMD
-  <pre><code>$ 
+  <pre><code>
   pip install pyttsx3
   pip install SpeechRecognition
   pip install pyjokes
@@ -14,8 +18,9 @@
   this finishes the installation process
   
   to execute the file go the cmd select the path of the file then type the command below.
-  
+  <pre><code>
   python filename.py
+  </code></pre>
   
   thank you for using
   

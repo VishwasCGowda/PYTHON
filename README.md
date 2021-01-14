@@ -17,7 +17,9 @@
   
   this finishes the installation process
   
-  to execute the file go the cmd select the path of the file then type the command below.
+  HOW RUN THE FILE
+  ----------------------
+  To execute the file go the cmd select the path of the file then type the command below.
   <pre><code>
   python filename.py
   </code></pre>
@@ -26,4 +28,5 @@
   
   stay tuned for update
   
+  cODED WITH LOVE BY VARZ SECURITY.
   

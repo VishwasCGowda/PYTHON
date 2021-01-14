@@ -28,5 +28,5 @@
   
   stay tuned for update
 
-coded with love by <pre> VARZ SECURITY. </pre>
+coded with love by <pre><code> VARZ SECURITY.</code> </pre>
   

@@ -27,6 +27,6 @@
   thank you for using
   
   stay tuned for update
-  
-  cODED WITH LOVE BY VARZ SECURITY.
+
+coded with love by VARZ SECURITY.
   

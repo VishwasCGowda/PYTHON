@@ -9,7 +9,7 @@
   
   EXECUTE THE BELOW COMMANDS IN THE CMD
   <pre><code>
-  ''' $ pip install pyttsx3 '''
+$ pip install pyttsx3
   </code></pre>
   <pre><code>
   $ pip install SpeechRecognition

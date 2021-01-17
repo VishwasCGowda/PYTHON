@@ -8,8 +8,10 @@
   </code></pre>
   
   EXECUTE THE BELOW COMMANDS IN THE CMD
-  <pre><code><i id="copy-code-button" title="Copy Code" class="material-icons code-sidebar-button copy-code-button">filter_none</i>
+  <pre><code>
+  <i id="copy-code-button" title="Copy Code" class="material-icons code-sidebar-button copy-code-button">
   pip install pyttsx3
+  </i>
   </code></pre>
   <pre><code>
   pip install SpeechRecognition

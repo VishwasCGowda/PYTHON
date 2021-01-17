@@ -3,9 +3,7 @@
   INSTALLATION GUIDE
   ----------------------
   Download the file using the command 
-  <pre><code>
-  $ git clone https://github.com/VISHWAS-c-dot/PYTHON.git
-  </code></pre>
+  <pre><code> $ git clone https://github.com/VISHWAS-c-dot/PYTHON.git </code></pre>
   
   EXECUTE THE BELOW COMMANDS IN THE CMD
   <pre><code>

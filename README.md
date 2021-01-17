@@ -10,14 +10,20 @@
   EXECUTE THE BELOW COMMANDS IN THE CMD
   <pre><code>
   pip install pyttsx3
+  </code></pre>
+  <pre><code>
   pip install SpeechRecognition
+  </code></pre>
+  <pre><code>
   pip install pyjokes
+  </code></pre>
+  <pre><code>
   pip install wikipedia
-</code></pre>
+  </code></pre>
   
   this finishes the installation process
   
-  HOW RUN THE FILE
+  HOW TO RUN THE FILE
   ----------------------
   To execute the file go the cmd select the path of the file then type the command below.
   <pre><code>

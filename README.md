@@ -6,18 +6,10 @@
   <pre><code> $ git clone https://github.com/VISHWAS-c-dot/PYTHON.git </code></pre>
   
   EXECUTE THE BELOW COMMANDS IN THE CMD
-  <pre><code>
-$ pip install pyttsx3
-  </code></pre>
-  <pre><code>
-  $ pip install SpeechRecognition
-  </code></pre>
-  <pre><code>
-  $ pip install pyjokes
-  </code></pre>
-  <pre><code>
-  $ pip install wikipedia
-  </code></pre>
+  <pre><code> $ pip install pyttsx3 </code></pre>
+  <pre><code> $ pip install SpeechRecognition </code></pre>
+  <pre><code> $ pip install pyjokes </code></pre>
+  <pre><code> $ pip install wikipedia </code></pre>
   
   this finishes the installation process
   

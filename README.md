@@ -4,23 +4,21 @@
   ----------------------
   Download the file using the command 
   <pre><code>
-  git clone https://github.com/VISHWAS-c-dot/PYTHON.git
+  $ git clone https://github.com/VISHWAS-c-dot/PYTHON.git
   </code></pre>
   
   EXECUTE THE BELOW COMMANDS IN THE CMD
   <pre><code>
-  <i id="copy-code-button" title="Copy Code" class="material-icons code-sidebar-button copy-code-button">
-  pip install pyttsx3
-  </i>
+  $ pip install pyttsx3
   </code></pre>
   <pre><code>
-  pip install SpeechRecognition
+  $ pip install SpeechRecognition
   </code></pre>
   <pre><code>
-  pip install pyjokes
+  $ pip install pyjokes
   </code></pre>
   <pre><code>
-  pip install wikipedia
+  $ pip install wikipedia
   </code></pre>
   
   this finishes the installation process
@@ -29,7 +27,7 @@
   ----------------------
   To execute the file go the cmd select the path of the file then type the command below.
   <pre><code>
-  python personal_assistance.py
+  $ python personal_assistance.py
   </code></pre>
   
   thank you for using

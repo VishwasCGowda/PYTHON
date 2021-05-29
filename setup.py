@@ -5,7 +5,7 @@ from auto_py_to_exe import __version__ as version
 setup(
     name='personal_assistance',
     version=version,
-    url='https://github.com/brentvollebregt/auto-py-to-exe',
+    url='https://github.com/VISHWAS-c-dot/PYTHON',
     license='MIT',
     author='Vishwas c',
     author_email='vishwas@varzsecurity.com',
